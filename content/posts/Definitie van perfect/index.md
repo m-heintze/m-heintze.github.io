@@ -9,6 +9,7 @@ onderwerpen = [
     'denkvoer'
 ]
 thumbnailAlt = 'Photo by Pixabay'
+showTableOfContents = false
 +++
 
 {{< lead >}}
