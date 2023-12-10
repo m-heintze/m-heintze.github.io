@@ -67,7 +67,7 @@ fingerprintAlgorithm = "sha256"
   showTermCount = true
 
 [fathomAnalytics]
-  # site = "ABC12345"
+  site = "GUMSOELT"
   # domain = "llama.yoursite.com"
 
 [plausibleAnalytics]
