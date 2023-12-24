@@ -2,6 +2,7 @@
 title = 'Ik ben perfect, en jij ook!'
 date = 2022-06-21
 lastmod = 2023-12-10
+slug = 'definitie-van-perfect'
 draft = false
 description = 'Waarom heeft "Perfect" geen betekenis? Een overtuiging die ik graag uitleg.'
 summary = 'Waarom heeft "Perfect" geen betekenis? Een overtuiging die ik graag uitleg.'

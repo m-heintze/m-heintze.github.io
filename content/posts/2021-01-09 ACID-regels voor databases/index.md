@@ -2,6 +2,7 @@
 title = 'ACID-regels voor databases'
 date = 2021-01-09
 draft = false
+slug = 'acid-regels-voor-databases'
 description = 'Ontdek de cruciale ACID-regels voor betrouwbare databases. Leer over Atomicity, Consistency, Isolation en Durability voor foutbestendige transacties. Begrijp hun impact en implementeer ze voor robuuste systemen.'
 summary = 'De ACID-regels zijn een viertal regels voor databases die er voor zorgen dat transacties betrouwbaar verlopen.'
 onderwerpen = [
