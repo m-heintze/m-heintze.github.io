@@ -1,6 +1,6 @@
 +++
 title = 'Wat is Lesgeven?'
-date = 2023-12-24
+date = '2023-12-24T00:00:00'
 # lastmod = 2023-12-24
 slug = 'wat-is-lesgeven'
 draft = false
