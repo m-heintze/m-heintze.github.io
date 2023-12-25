@@ -25,3 +25,5 @@ Iemand leert niks, of zelfs het verkeerde, als die persoon niet weet wat hij moe
 - …
 
 Zonder doel heeft iemand geen filter om zich te focussen op de juiste dingen. Het allerbelangrijkste bij lesgeven is dus **het doel van de les overbrengen**.
+
+*p.s. het doel van de les wordt ook wel het [leerdoel](../2023-12-25%20Beter%20dan%20Leervragen%20Leerdoelen/) genoemd.*
