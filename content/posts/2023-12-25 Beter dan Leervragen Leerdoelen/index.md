@@ -1,5 +1,5 @@
 +++
-title = 'Beter dan leervragen: Leerdoelen'
+title = 'Beter dan Leervragen: Leerdoelen'
 date = '2023-12-25T00:00:00'
 # lastmod = 2023-12-24
 slug = 'beter-dan-leervragen-leerdoelen'
