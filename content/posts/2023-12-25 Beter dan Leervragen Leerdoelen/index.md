@@ -13,7 +13,7 @@ thumbnailAlt = 'Photo by Pixabay: https://www.pexels.com/photo/question-mark-on-
 showTableOfContents = false
 +++
 
-Het leerdoel van de les overbrengen is [het allerbelangrijkste bij lesgeven](../2023-12-24%20Het%20allerbelangrijkste%20bij%20lesgeven/). Toch hoor je vaak over leervragen, hoe zit het daarmee?
+Het leerdoel overbrengen is [het allerbelangrijkste bij lesgeven](../2023-12-24%20Het%20allerbelangrijkste%20bij%20lesgeven/). Toch hoor je vaak over leervragen, hoe zit het daarmee?
 
 **TL;DR: Een leervraag kun je beantwoorden zonder het leerdoel te halen.**
 
